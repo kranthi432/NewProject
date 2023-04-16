@@ -1,0 +1,435 @@
+优秀网站:
+  codepen:
+    url: https://codepen.io
+    describe: 一个在线编辑前端项目的网站，其中有一些前端大神的作品，也有很多令人惊艳的前端效果，可以浏览和下载使用
+    github: false
+    image: 6.jpg
+  codrops:
+    url: http://www.codrops.com
+    describe: 一系列具有相当具有创意且有趣的前端效果的集合，是非常棒的学习资料，可以欣赏和下载使用。并且有些项目，也托管到了[github仓库](https://github.com/codrops)中
+    github: false
+    image: 7.jpg
+  docschina:
+    url: https://docschina.org
+    describe: 印记中文网收集了由社区翻译的比较流行的前端相关框架、工具的中文版文档。为学习一些新的框架扫平了语言障碍
+    github: false
+    image: 8.jpg
+  toby:
+    url: https://www.gettoby.com
+    describe: 超级赞的收集与协作管理书签的chrome插件，前端开发应该都会用chrome。全球超过10W+的用户
+    github: false
+    image: 9.jpg
+  codesandbox:
+    url: https://codesandbox.io
+    describe: 在线项目编辑器，对于写独立demo来说非常nice，一些前端主流的框架代码几乎都有，可以满足你80%的需求
+    github: false
+    image: 10.jpg
+  microjs:
+    url: http://microjs.com
+    describe: 可以让你选择微型的js类库的网站，该网站里的库都是压缩后不大于5KB的，非常实用，该网站的资源都托管到了github
+    github: false
+    image: 3.jpeg
+  plainjs:
+    url: https://docschina.org
+    describe: 该仓库都是用原生js写的插件和组件，非常实用，该网站的资源都托管到了github
+    github: false
+    image: 2.jpeg
+
+综合/资源:
+  dypsilon/frontend-dev-bookmarks: 一个巨大的前端开发资源清单
+  helloqingfeng/Awsome-Front-End-learning-resource: github最全的前端资源汇总仓库
+  hoosin/mobile-web-favorites: 移动端H5开发经验、资源、以及踩坑汇总
+  AutumnsWind/Front-end-tutorial: 最全的资源教程-前端涉及的所有知识体系
+  sorrycc/awesome-javascript:  一系列很棒的javascript库、插件、资源
+  foru17/front-end-collect: 作者分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者
+  airbnb/javascript: airbnb出品写js最佳的姿势，已成众多公司js代码风格的标准
+  AlloyTeam/Mars: 腾讯移动web前端知识库
+  justjavac/awesome-wechat-weapp: 小程序开发资源汇总，应有尽有
+  xitu/gold-miner:
+    demo: https://juejin.im/tag/掘金翻译计
+    describe: 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台
+  mqyqingfeng/Blog: 前端大牛的博文，优质文章
+  jsfront/src: 常用的前端代码分享（ps 每位同学都要有这样积累的习惯）
+  hzlzh/Best-App: 收集&推荐优秀的 Apps/硬件/技巧/周边等（与前端无关）
+  denolib/awesome-deno:
+    describe: Deno项目与生态正在逐步完善，大家可以多多关注
+
+面试相关:
+  qiu-deqing/FE-interview: 收集的前端面试题和答案
+  BestDingSheng/resources: 知名互联网企业内推，需要换工作的小伙伴擦亮眼睛了
+  InterviewMap/CS-Interview-Knowledge-Map:
+    demo: https://yuchengkai.cn/docs/zh/
+    describe: 一份前端面试资源，作者很用心，还配有专门的网页
+  ElemeFE/node-interview:
+    demo: https://elemefe.github.io/node-interview/#/sections/zh-cn/
+    describe: 如何进入饿了么前端团队，node面试题集合
+
+样式/UI/css:
+  Dogfalo/materialize:
+    describe: materialize 是material design一套轻量级的纯CSS框架。material design 是Goole提出的一套UI设计方案，并应Goole用于所有产品中
+    demo: https://materializecss.com
+  Semantic-Org/Semantic-UI:
+    describe: 让你使用任何html标签 来表现ui控件，这是一款语义化设计的前端框架，为攻城师而制作的可复用的开源前端框架
+  uikit/uikit:
+    describe: 一个轻量级的、模块化前端框架，它被用于快速开发强大的web界面。也是一款优秀的响应式html5框架
+  primer/primer:
+    describe: github站点所使用的一套css框架
+  weui/weui:
+    describe: 为微信web服务量身设计的一套ui框架
+  yahoo/pure: 一组很小的，响应式的css组件，你可以在网页的项目上到处使用
+  necolas/normalize.css: 一个可定制的css文件，使浏览器呈现的所有元素，更一致和符合现代标准。支持IE8+
+  chokcoco/iCSS: 一系列css有趣的话题，有开发中常用css代码gists
+  css-doodle/css-doodle:
+    demo: https://codepen.io/collection/XyVkpQ/
+    describe: 一个用css绘制图形的web组件。非常酷！请看demo作品
+
+构建工具/预编译:
+  facebook/prepack:
+    demo: https://prepack.io
+    describe: 一个让JS跑得更快的工具。该项目现在处于开发阶段，不能在生产环境中使用
+  parcel-bundler/parcel:
+    recommand: true
+    describe: 一个零配置的新一代前端构建工具，识别各种常用类型文件，最优加载模块，代码拆包等，非常值得尝试的一款打包工具
+  webpack/webpack:
+    recommand: true
+    describe: 一个模块打包工具，你可以使用webpack管理你的模块依赖，并编绎输出模块们所需的静态文件
+  gulpjs/gulp: 基于node.js流构建系统，只有原生几个api，和庞大的插件生态，使用非常简单
+  yeoman/yo:
+    demo: http://yeoman.io/
+    describe: 基于node的一个强健的项目脚手架工具，可以非常方便的构建一个初始项目，有各种类型的项目的脚手架
+  Microsoft/TypeScript:
+    recommand: true
+    demo: https://www.tslang.cn/docs/handbook/basic-types.html
+    describe: 有类型的js预编译语言，非常强大的预编译与代码报错提示，赋予了JS构建大型项目的可能
+  labs42io/clean-code-typescript:
+    demo: https://labs42io.github.io/clean-code-typescript/
+    recommand: true
+    describe: typescript代码简洁之道，有非常多的写TS的最佳实践，很值得仔细阅读借鉴
+  jkchao/typescript-book-chinese:
+    demo: https://www.tslang.cn/docs/handbook/basic-types.html
+    describe: 深入理解TypeScript中文版，可对日益热门的TS增加更多理解。
+  babel/babel:
+    recommand: true
+    describe: 是一款为了写下一代js的编译器，无需等待浏览器支持就可以使用各种ES6，ES7新的语法
+  jamiebuilds/babel-handbook:
+    demo: https://github.com/jamiebuilds/babel-handbook/blob/master/translations/zh-Hans/README.md
+    describe: Babel手册，可了解babel配置与使用，和babel插件开发
+  stylus/stylus:
+    recommand: true
+    describe: 富有表现力的，健壮的css预编译语言, 除了代码简洁，可读性强外，函数功能非常强大，可与js混合使用，实现动态css编程
+  less/less.js:
+    describe: 轻量级的，动态CSS预编语言，具有CSS所有特性，并提供了动态编程方式编写CSS代码。也是各大UI框架所选用的样式语言，比如bootstrap,ant design等
+  sass/node-sass:
+    describe: 动态CSS预编语言, 并有拥有强大sass compass的生态圈，可以直接引入并使用，sass是由ruby编写的，node-sass是node重构版本，方便npm直接使用
+  postcss/postcss:
+    recommand: true
+    describe: 用js插件来对css样式文件，进行转换、预编译等操作，并且实现了模块化，支持非常多插架
+
+测试/工具/Mock:
+  facebook/jest:
+    recommand: true
+    demo: https://jestjs.io/
+    describe: 愉快的JS测试框架，也有[TS版本](https://github.com/kulshekhar/ts-jest)，使用方便，简单，文档相当齐全
+  mochajs/mocha:  一个简单、灵活有趣的 javascript 测试框架，用于 nodejs 和浏览器上的 js 应用测试
+  n1k0/casperjs: 一个基于 phantomjs 的开源导航脚本和测试工具
+  karma-runner/karma:  自动化完成单元测试，允许你在多个浏览器里执行js代码。让你的 tdd 变得简单，快速，有趣
+  jasmine/jasmine:  是一个简易的 js 单元测试框架， 用来测试 javascript 代码
+  chaijs/chai:
+    recommand: true
+    describe: 一个针对 nodejs 和浏览器的 tdd (测试驱动开发)/ bdd(行为驱动开发)的断言框架，可与任何 javascript 测试框架集成
+  zmoazeni/csscss:  css代码冗余分析工具，用于分析css存在的冗余
+  caolan/async: 一个工具模块，提供了直接而强大的 javascript 异步功能。虽然是为 nodejs 设计的，但是它也可以直接在浏览器中使用
+  yaniswang/HTMLHint:  html 静态代码分析工具，可以集成到代码编辑器或编译系统中
+  eslint/eslint:
+    recommand: true
+    describe: js 静态代码分析工具，可以帮你检测 js 语法错误和潜在的问题，可以集成到代码编辑器或编译系统中
+  stylelint/stylelint:
+    recommand: true
+    describe: 分析和优化你的css样式表的工具，支持多种类型的css文件
+  SimenB/stylint: 由于 stylus 官方团队并没有实现 .styl 文件检查工具，第三方实现了sytlus文件的代码风格检查工具
+  WickyNilliams/headroom.js: 是强大的基准测试库，几乎适用于所有js平台。支持high-resolution定时器，并返回重要的统计结果
+  MicrosoftDX/Vorlonjs:
+    demo: http://www.vorlonjs.com
+    describe: 远程调试移动端页面的工具，有和PC页面调试一致的体验。比如native app内嵌h5页面、手机h5页面等。国内也一个相同功能的软件[moblie debug](https://www.mobiledebug.com/)。
+  YMFE/yapi:
+    demo: https://github.com/YMFE/yapi
+    describe: 去哪儿大前端开源的api mock服务，三分钟即可部署成功并应用，几乎满足中小型公司Mock需求
+  easy-mock/easy-mock:
+    demo: https://easy-mock.com
+    describe: 相比于Yapi,该项目更简单简洁，仅用于mock api，功能简单容易使用，但管理功能，文档能力不如Yapi
+
+canvas/数据可视化:
+  mbostock/d3:
+    describe: 一个基于数据操作文档的js数据可视化框架，最流行的数据可视化库之一
+  apache/incubator-echarts:
+    describe: 基于canvas的纯js图表库，提供直观，生动，可交互，可个性化定制的数据可视化图表
+  nnnick/Chart.js:
+    describe: 使用canvas标签的简易html5图表
+  masayuki0812/c3:
+    describe: 一个基于 d3.js 的可重用 javascript 图表库，几乎零学习曲线
+  antvis/g2:
+    describe: 是一套基于可视化编码的图形语法，以数据驱动，具有高度的易用性和扩展性，可定制的颗粒度极细，相比项目echart大而全且易用的图表库，这个库会让你有不一样的体验，且官方提供了[g2-react](https://github.com/antvis/g2-react)的react封装包
+  soulwire/sketch.js:
+    describe: 跨平台javascript创意编码框架，gzip压缩后仅有2kb
+  ecomfe/zrender:
+    describe: 一个轻量级的canvas类库，mvc封装，数据驱动，提供类dom事件模型，让canvas绘图大有不同
+  highcharts/highcharts:
+    describe: 基于svg的javascript图表框架
+  antvis/g6:
+    describe: 是一个由纯 JavaScript 编写的关系图基础技术框架。开发者能基于 G6 进行关系图的分析视图和编辑视图进行快速的二次开发
+
+动画:
+  daneden/animate.css: 一个跨浏览器的css动画库，实现了多种css3动画效果，简单易用易上手
+  juliangarnier/anime: 极小的js动画引擎，支持 css3、svg 的动画效果，能编写出各种复杂动画效果，gzip后6K左右
+  visionmedia/move.js: 极小的js库,支持css3的动画效果,非常简单优雅
+  CreateJS/TweenJS: 是一个简单但强大的js动画库，createjs 套件的一部分
+  tictail/bounce.js: 一个用于制作漂亮的css3关键帧动画的js库，使用其特有的方式生成的动画效果
+  tweenjs/tween.js: 一款可生成平滑动画效果的js动画库，允许你以平滑的方式修改元素的属性值，它可以通过设置生成各种类似css3的动画效果
+  wagerfield/parallax: 轻量级的的视差引擎，能对智能设备的方向作出反应
+  julianshapiro/velocity: 是一款和jQuery的 $.animate() 有相同API的动画引擎，很适合移动端的动画开发，还打包了颜色动画，转换，循环，easing效果，类动画、滚动等功能
+
+插件:
+  HubSpot/pace: 自动显示页面加载 loading bar 的插件，很多网站项目都在用，非常值得尝试
+  iamjoel/front-end-plugins: 前端常用插件汇总
+  stefanbuck/awesome-browser-extensions-for-github: 收集关于github上优秀的浏览器插件，非常实用
+  videojs/video.js: 开源的html5和flash视频播放器，支持自定义进度条、按钮以及工具栏的底色
+  alvarotrigo/fullPage.js: pc端的全屏滚动插件
+  peachananr/onepage-scroll: 可以轻松建立一个动感的响应式的滚动效果页面，比较适用于单页面的专题站。支持现代浏览器和IE8以上版本
+  nicinabox/superslides: 致力于解决网站大部分特效展示问题，网站上常用的焦点图/幻灯片，tab标签切换，图片滚动，无缝滚动等
+  Justineo/github-hovercard: github 鼠标悬停显示用户，仓库等摘要信息
+
+框架、库和组件:
+  baidu/amis:
+    demo: https://baidu.github.io/amis/
+    describe: 百度开源的admin后台生成框架， 基于React，据说已经百度已有100+部门使用,创建了1.2w+页面
+    recommand: true
+  CareyToboo/rt-admin:
+    demo: https://rt-admin.igroupes.com/
+    describe: 百度 amis 框架的 demo 应用, 完整的权限控制，支持路由、权限、页面、表单、CSS 全支持JSON配置，可以极快速度开发一个admin管理系统
+  alibaba/ice:
+    demo: https://alibaba.github.io/ice/
+    describe: 阿里飞冰，从此再也不担心管理系统的开发。(个人觉得简单项目还是可以，复杂的做不了)
+  Polymer/polymer: 以一切皆组件、最少化代码量、最少框架限制为设计理念的web组件构建框架
+  impress/impress.js: 创建令人兴奋的演示。使用css3的转换和过渡，这个库允许你创建令人印象深刻的演示文稿
+  janpaepke/ScrollMagic:
+    demo: http://scrollmagic.io/
+    describe: 一款非常赞的滚动交互的js插件，可用于官网与宣传广告场景
+  xtermjs/xterm.js:
+    demo: https://xtermjs.org/
+    describe: 可在web浏览器操作terminal终端，被用于VScode编辑器的终端功能中。
+  hakimel/reveal.js: 基于css3的3D幻灯片工具，能够制作绚丽的演示文稿并生成html格式，将它发布到web上
+  ksky521/nodePPT: 使用nodejs写的网络幻灯片，可能是迄今为止最好的网页版ppt
+  mrdoob/three.js: 是js编写的webgl第三方库，提供了非常多的3D显示功能
+  NUKnightLab/TimelineJS: 轻松制作时间轴
+  isagalaev/highlight.js: js语法高亮，既可以运行在浏览器端也可以运行在服务端
+  tj/commander.js: nodejs命令行工具，可用于制作那种node命令行终端应用
+  mozilla/togetherjs: 由Mozilla打造的一款可以给网站添加实时协作功能的js库
+  nbubna/HTML: 轻量级的简化与dom操作的js库
+  sofish/wechat.js: 微信相关的 js 操作：分享、网络、菜单
+  blueimp/JavaScript-Load-Image: 一个js加载和转换图像文件的库
+  usablica/progress.js: 一个js的库，帮助开发人员为网页上的每个对象创建和管理进度条效果
+  zurb/foundation: 号称世界上最先进的响应式前端框架，也是一款移动端优先的框架
+  andrewplummer/Sugar: 扩展了现有的js对象的方法，让你可以用更少的代码做更多的事情
+  tastejs/todomvc: 帮你挑选一款mv*框架，它使用不同的最流行的mv*框架实现了一个相同的todo应用
+  dbushell/Pikaday: 是一个js日期选择器，特点是轻量级、无依赖和模块化的css
+  fex-team/webuploader: 一个简单的以html5为主，flash为辅的现代文件上传组件。支持大文件分片并发上传，极大的提高了文件上传效率
+  WickyNilliams/headroom.js: 是一个轻量级、纯js组件，用来隐藏或展现页面上的元素，为你的页面留下更多展示内容的空间
+  fex-team/ua-device: 史上最全面的userAgent解析库，百度FEX出品
+  overtrue/share.js: 一键分享到微博、QQ空间、QQ好友、微信、腾讯微博、豆瓣等
+  Tonejs/Tone.js:
+    demo: https://musiclab.chromeexperiments.com/
+    describe: 在浏览器中开发音乐相关内容的web Audio框架。demo需要翻墙
+  scribbletune/scribbletune: 用JS编曲的nodejs模块，同样可以运行在浏览器中
+  fullcalendar/fullcalendar:
+    demo: https://fullcalendar.io
+    describe: 一个完整的行程日历组件，包含了月，周，日视图，很适合开发日程相关的应用
+  surveyjs/surveyjs:
+    demo: https://surveyjs.io/Examples/Library/
+    describe: 一个web调查问卷开发的项目
+
+移动端:
+  ftlabs/fastclick: 触摸UI上的消除点击延迟js库
+  muicss/mui: 最接近原生APP体验的高性能框架
+  sdc-alibaba/SUI-Mobile: 由阿里巴巴国际UED前端出品的移动端UI库，轻量精美
+  allmobilize/amazeui: 移动优先的跨屏前端框架。面向html5开发，使用css3做动画和交互
+  driftyco/ionic: 先进的html5移动端开发框架，帮助开发者使用HTML5, css和js做出不可思议的hybrid app
+  yanhaijing/zepto.fullpage: 专注于移动端的全屏滚动插件
+  amfe/lib-flexible: 淘宝出品的移动端可伸缩布局方案
+  thebird/swipe: 加速移动触摸滑块与硬件之间的转换
+  hammerjs/hammer.js: 一个支持多点触摸的手势库
+  madrobby/zepto: 一款面向移动端设备、api与jquery兼容的基础库
+  nolimits4web/Swiper: 纯js打造的滑动特效插件，面向手机、平板电脑等移动终端。能实现触屏焦点图、触屏Tab切换、触屏多图切换等常用效果
+
+Node.js相关:
+  sindresorhus/awesome-nodejs: 关于node包和资源的收集
+  http-party/http-server: 极致简单的nodejs 的 http 服务器，特别适合静态资源服务器，用于单页面打包文件预览，简单强大
+  alsotang/node-lessons: nodejs包教不包会
+  youyudehexie/node123: node.js中文资料导航
+  meteor/meteor: 快速构建web应用的全栈框架，拥有非常常强大的生态圈，但是国内不是很流行
+  TryGhost/Ghost:  nodejs开发最新博客系统, 简单简洁, 响应式设计, 支持完全自定义, 免费, 专注博客
+  NodeBB/NodeBB: 基于node编写的现代化社区论坛
+  hexojs/hexo: 一款快捷，简单，强大的博客框架
+  cnodejs/nodeclub: 使用nodejs和mongodb开发的社区系统
+  nswbmw/N-chat: 使用express和socket搭建的多人聊天室
+  electron/electron: 使用js,css,html构建跨平台的桌面应用
+  sahat/hackathon-starter: 一个非常棒的noder初始项目，拥有完整系统架构与用户系统（第三方登录）
+  nestjs/nest:
+    demo: https://nestjs.com/
+    describe: 完全使用typescript编写的服务端框架，相比传统nodejs项目，可维护性、健壮性、可重构性大大加强。号称node版的spring boot
+
+模板引擎:
+  pugjs/pug: 基于nodejs的强壮的、优雅的功能强大的模版引擎，相当简洁
+  wycats/handlebars.js: 一个js语义模板库，能让你轻松高效的编写语义化模板
+  aui/artTemplate: 性能卓越的js模板引擎
+  tj/ejs: tj大神写的嵌入javascript的模板引擎
+
+WEB编辑器:
+  Microsoft/monaco-editor:
+    demo: https://microsoft.github.io/monaco-editor
+    describe: 微软开发的vs code编辑器的核心编辑组件，可以在浏览器中使用使用的代码编辑器，并支持各种语言高亮，功能相当齐全，制作代码编辑器首选
+  codemirror/CodeMirror:
+    demo: https://codemirror.net/
+    describe: 一个轻量级的代码编辑器，核心代码相当的少，同样支持非常多的编程语言的编辑。
+  react-page/react-page:
+    demo: https://editor.ory.am/?utm_source=github&utm_medium=header&utm_campaign=editor
+    describe: 下一代的高度定制化的流览器网页内容编辑器，是基于react开发
+  tinymce/tinymce:
+    demo: https://www.tinymce.com
+    recommand: true
+    describe: 支持图片在线处理，插件多，文档良好且齐全，功能强，编辑能力优秀，界面好看，推荐使用
+  ckeditor/ckeditor-dev:
+    demo: https://ckeditor.com/ckeditor-4
+    describe: 界面极其优秀的一款，功能强大，编辑能力极强，基本和word差不多
+  wangfupeng1988/wangEditor:
+    demo: http://www.wangeditor.com
+    describe: 轻量简洁，最重要的是开源且中文文档齐全。设计的UI漂亮
+  mycolorway/simditor:
+    demo: http://simditor.tower.im
+    describe: 团队协作工具Tower使用的富文本编辑器，样式好看，插件不多，基本满足需求，维护较好
+  fex-team/ueditor:
+    demo: http://ueditor.baidu.com/website/onlinedemo.html
+    describe: 中文文档，插件多，基本满足各种需求，类似贴吧中的回复界面。缺点：不再维护，文档极少，使用并不普遍，图片只能上传到本地服务器，如果需要上传到其他服务器需要改动源码，较为难办，加载速度慢
+  kindsoft/kindeditor:
+    demo: http://kindeditor.net/demo.php
+    describe: 界面类似百度，效果很像，文档齐全但用例较少，使用还算方便。缺点：总感觉样子不是很好看，没有现代那种风格，还是老式的传统图标
+  joemccann/dillinger:
+    demo: https://dillinger.io/
+    describe: 一个完整的基于node与angular的可以直接部署md项目，可以学习整个项目架构
+  sparksuite/simplemde-markdown-editor:
+    demo: https://simplemde.com/
+    describe: 极简版的markdown编辑器，非常轻量级，可以用于简单的md编辑场景
+  nhnent/tui.editor:
+    demo: http://ui.toast.com/tui-editor/
+    recommand: true
+    describe: 一款功能非常强大的markdown编辑器，有点想"有道云笔记"的md编辑器。非常方便添加自定义功能。
+
+React相关:
+  prevwong/craft.js:
+    demo: https://craft.js.org/
+    recommand: true
+    describe: 一个为了制作拖拽UI生成器而生的框架，可以非常方便的制作强大的可视化UI编辑器
+  danilowoz/react-content-loader:
+    demo: http://danilowoz.com/create-content-loader
+    describe: react 骨架屏占位组件，很实用，专注用户体验提升
+  joshwcomeau/react-flip-move:
+    demo: http://joshwcomeau.github.io/react-flip-move/examples
+    describe: react列表重排序动画，支持增/删/重排序动画（作者正在寻找维护者，要试试么～）
+  pelotom/use-methods: react 简化写 reducer 的 hooks，简单方便实用
+  streamich/react-use: react hooks最新的通用逻辑封装包，该包仍在不断更新
+  adam-golab/react-developer-roadmap: react的学习路线图2018版
+  enaqx/awesome-react: react资源大全，react该有的都有了
+  styled-components/styled-components:
+    describe: react项目中写样式的另一种方式，令人激动人心
+  facebook/create-react-app: facebook官方提供react开发命令工具，解决初学者的各种烦恼
+  zeit/next.js:
+    demo: https://nextjs.org
+    describe: react服务端渲染框架
+  ant-design/ant-design:
+    recommand: true
+    demo: http://ant-design.gitee.io/index-cn
+    describe: 管理系统UI组件库，各类组件一应俱全，优秀的文档，良好的api，值得拥有
+  ant-design/ant-design-mobile:
+    recommand: true
+    demo: https://mobile.ant.design/index-cn
+    describe: react移动组件库，兼容react-native
+  ant-design/ant-design-pro:
+    recommand: true
+    demo: https://preview.pro.ant.design/#/dashboard/analysis
+    describe: 阿里团队官方实现的应用antd的，管理系统项目模版，开箱即用
+  gatsbyjs/gatsby: 静态页面生成器，非常强大，自定能力强，模版极多
+  developit/preact: react的瘦身版，兼容官方react所有api,压缩后只有3kb
+  recharts/recharts:
+    demo: http://recharts.org
+    describe: d3图表库的react版
+  RubaXa/Sortable:
+    demo: http://rubaxa.github.io/Sortable
+    describe: react的拖拽排序组件
+  jamiebuilds/react-loadable: react组件懒加载组件
+  react-dnd/react-dnd:
+    demo: http://react-dnd.github.io/react-dnd
+    describe: react拖拽组件，满足各种拖拽需求
+  STRML/react-grid-layout:
+    recommand: true
+    demo: https://strml.github.io/react-grid-layout/examples/0-showcase.html
+    describe: 可拖拽的伸缩的布局组件，admin dashboard必备精选，很高大上
+  pedronauck/docz:
+    recommand: true
+    demo: https://www.docz.site
+    describe: 基于react开发的写文档的神器,号称 写文档从未如此简单
+  react-spring/react-spring:
+    demo: https://www.react-spring.io/
+    describe: 写react动画的好帮手，不废话看样例
+  react-spring/react-use-gesture: React 手势库 hooks。能够监听各种鼠标、手指滑动操作。
+  facebook/react-360:
+    demo: https://facebook.github.io/react-360
+    describe: react VR 开发框架
+  remaxjs/remax:
+    demo: https://remaxjs.org/
+    describe: 使用真正的 React 开发各平台小程序、H5的多端框架。阿里团队成员开发。
+  NervJS/taro:
+    demo: https://taro.aotu.io/
+    describe: 一套遵循 React 语法规范的 多端开发 解决方案, 有一套代码多端编译，适用小程序与原生app
+  vadimdemedes/ink: 用react开发命令行交互工具，很酷
+  ag-grid/ag-grid: 非常强大的table组件，完全满足以数据为主的数据展示表格
+
+编程软实力:
+  JacksonTian/fks: 前端技能汇总，包含前端知识架构，后端知识，运维知识，书籍推荐等
+  trekhleb/javascript-algorithms:
+    demo: https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md
+    describe: 包含了多种基于js的算法与数据结构,每种算法都有自己的README说明与YouTube视频
+  CyC2018/CS-Notes: 计算机相关的各种记录，涉及到编程的方方面面
+  Jam3/math-as-code:
+    demo: https://github.com/Jam3/math-as-code/blob/master/README-zh.md
+    describe: 学术论文可能会吓着自学游戏和图形的程序猿,通过对比数学符号和JavaScript代码来帮助开发者更容易了解数学符号
+  justjavac/free-programming-books-zh_CN:
+    describe: 免费的计算机编程类中文书籍,不得不说，现在这个时代太好了。
+  apachecn/awesome-algorithm:
+    describe: 作者带你跟随思路一步一步撸出代码,[Leetcode](https://leetcode.com/problemset/algorithms/?difficulty=Easy)题解大全及经典算法实现
+  MisterBooo/LeetCodeAnimation:
+    describe: 用动画的形式呈现解LeetCode题目的思路
+  donnemartin/system-design-primer:
+    describe: 大型系统架构设计,对扩展眼界很有帮助
+
+WEB游戏:
+  photonstorm/phaser:
+    describe: 非常强大的2D游戏开发框架，面向对象开发，强类型支持，文档示例相当齐全，在外国十分流行
+    demo: http://phaser.io
+    recommand: true
+  pixijs/pixi.js:
+    describe: 一个快速，灵活性强，比较底层与基础的HTML5游戏2D渲染引擎
+    demo: https://www.pixijs.com
+  BabylonJS/Babylon.js:
+    describe: 简单、强大、开源、易于开发的3D游戏引擎
+    demo: https://www.babylonjs.com
+  playcanvas/engine:
+    describe: 快速、轻量的WEBGL游戏引擎
+    demo: https://playcanvas.com
+  hiloteam/Hilo:
+    describe: 阿里巴巴集团开发的一款HTML5跨终端游戏解决方,中文支持
+    demo: https://hiloteam.github.io/examples/index.html
+
+浏览器兼容方案:
+  # aFarkas/html5shiv: 主要解决html5提出的新的元素不被ie6-9识别
+  paulmillr/es6-shim:  提供兼容性垫片，使ES6能兼容于传统的js引擎
+  Modernizr/Modernizr: 用来检测浏览器功能支持情况的js库,可以检测18项css3功能以及40多项关于h5的功能
+  aFarkas/html5shiv: 主要解决html5提出的新的元素不被ie6-9识别
